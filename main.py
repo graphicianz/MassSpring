@@ -1,5 +1,6 @@
 # comment
 # some feature
+# another comment
 import OpenGL, sys, random, time
 from OpenGL.GL import *
 from OpenGL.GLU import *
